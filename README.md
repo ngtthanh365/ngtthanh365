@@ -8,11 +8,6 @@
   <p>
     <img src="https://komarev.com/ghpvc/?username=ngtthanh365&color=F700FF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
   </p>
-
-  <p>
-    <i>Building projects, exploring technologies, and improving every day.</i>
-  </p>
-
 </div>
 
 ---
