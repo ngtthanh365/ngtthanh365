@@ -4,7 +4,7 @@
 
   <h1>🌌 Welcome to My Universe!</h1>
   <h3>Software Developer in Progress | Tech Enthusiast | Open to Collaboration</h3>
-
+   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
   <p>
     <img src="https://komarev.com/ghpvc/?username=ngtthanh365&color=F700FF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
   </p>
@@ -107,8 +107,6 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
-
   <p>💬 Always happy to connect, learn, and build something meaningful.</p>
 </div>
 
