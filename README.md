@@ -64,30 +64,6 @@
 
 ---
 
-### 🔧 My Stack & Tools
-
-<div align="center">
-
-  <h4>Languages & Frameworks</h4>
-
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,py,php,dart,html,css,react,vite,nextjs,nodejs,flutter&perline=7" alt="Languages and Frameworks" />
-
-  <br><br>
-
-  <h4>Databases & Infrastructure</h4>
-
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis,rabbitmq,docker,nginx&perline=7" alt="Databases and Infrastructure" />
-
-  <br><br>
-
-  <h4>Testing & Development Tools</h4>
-
-  <img src="https://skillicons.dev/icons?i=vitest,git,github,visualstudio,vscode&perline=7" alt="Testing and Development Tools" />
-
-</div>
-
----
-
 ### 📧 Connect with Me
 <div align="center">
   <a href="https://github.com/ngtthanh365">
